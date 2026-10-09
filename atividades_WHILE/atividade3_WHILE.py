@@ -34,4 +34,4 @@ while True:
     else:
         print("opção fora do cardapio.")
 
-print("FIM ALGORITMO.")        
+print("FIM ALGORITMO.")
