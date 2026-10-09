@@ -11,7 +11,7 @@ for i in range(QUANTI_TENTATIVA):
             os.system("cls")
         else:
             soma += nota
-            break
+        break
 media = soma / QUANTI_TENTATIVA
 if media < 5:
     print(f"media {media}: voce esta reprovado.")
